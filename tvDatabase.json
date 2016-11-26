@@ -1,0 +1,284 @@
+{
+    "shows": [
+        {
+            "name": "Modern Family",
+            "download": null,
+            "id": 80,
+            "day": 3,
+            "network": "ABC",
+            "time": "21:00"
+        },
+        {
+            "name": "Empire",
+            "download": null,
+            "id": 1355,
+            "time": "21:00",
+            "day": 3,
+            "network": "FOX"
+        },
+        {
+            "name": "Blindspot",
+            "download": null,
+            "id": 1855,
+            "time": "20:00",
+            "day": 3,
+            "network": "NBC"
+        },
+        {
+            "name": "Code Black",
+            "download": null,
+            "id": 2276,
+            "time": "22:00",
+            "day": 3,
+            "network": "CBS"
+        },
+        {
+            "name": "Designated Survivor",
+            "download": null,
+            "id": 8167,
+            "time": "22:00",
+            "day": 3,
+            "network": "ABC"
+        },
+        {
+            "name": "Marvel's Agents of S.H.I.E.L.D.",
+            "download": null,
+            "id": 31,
+            "time": "22:00",
+            "day": 2,
+            "network": "ABC"
+        },
+        {
+            "name": "Brooklyn Nine-Nine",
+            "download": null,
+            "id": 49,
+            "time": "20:00",
+            "day": 2,
+            "network": "FOX"
+        },
+        {
+            "name": "Halt and Catch Fire",
+            "download": null,
+            "id": 191,
+            "time": "22:00",
+            "day": 2,
+            "network": "AMC"
+        },
+        {
+            "name": "Ridiculousness",
+            "download": null,
+            "id": 916,
+            "time": "22:00",
+            "day": 2,
+            "network": "MTV"
+        },
+        {
+            "name": "Atlanta",
+            "download": null,
+            "id": 6508,
+            "time": "22:00",
+            "day": 2,
+            "network": "FX"
+        },
+        {
+            "name": "Lethal Weapon",
+            "download": null,
+            "id": 5495,
+            "time": "20:00",
+            "day": 3,
+            "network": "FOX"
+        },
+        {
+            "name": "The Big Bang Theory",
+            "download": null,
+            "id": 66,
+            "time": "20:00",
+            "day": 4,
+            "network": "CBS"
+        },
+        {
+            "name": "Quantico",
+            "download": null,
+            "id": 2114,
+            "time": "22:00",
+            "day": 0,
+            "network": "ABC"
+        },
+        {
+            "name": "The Strain",
+            "download": null,
+            "id": 20,
+            "time": "22:00",
+            "day": 0,
+            "network": "FX"
+        },
+        {
+            "name": "Fear the Walking Dead",
+            "download": null,
+            "id": 1824,
+            "time": "21:00",
+            "day": 0,
+            "network": "AMC"
+        },
+        {
+            "name": "Z Nation",
+            "download": null,
+            "id": 38,
+            "time": "21:00",
+            "day": 5,
+            "network": "Syfy"
+        },
+        {
+            "name": "How to Get Away with Murder",
+            "download": null,
+            "id": 52,
+            "time": "22:00",
+            "day": 4,
+            "network": "ABC"
+        },
+        {
+            "name": "Chicago Med",
+            "download": null,
+            "id": 2246,
+            "time": "21:00",
+            "day": 3,
+            "network": "NBC"
+        },
+        {
+            "name": "Rosewood",
+            "download": null,
+            "id": 1868,
+            "time": "20:00",
+            "day": 4,
+            "network": "FOX"
+        },
+        {
+            "name": "Superstore",
+            "download": null,
+            "id": 1864,
+            "time": "20:00",
+            "day": 4,
+            "network": "NBC"
+        },
+        {
+            "name": "Lucifer",
+            "download": null,
+            "id": 1859,
+            "time": "21:00",
+            "day": 1,
+            "network": "FOX"
+        },
+        {
+            "name": "Notorious",
+            "download": null,
+            "id": 5496,
+            "time": "21:00",
+            "day": 4,
+            "network": "ABC"
+        },
+        {
+            "name": "Easy",
+            "download": null,
+            "id": 14302,
+            "time": "",
+            "day": 4,
+            "network": "Netflix"
+        },
+        {
+            "name": "Chicago Med",
+            "download": null,
+            "id": 2246,
+            "time": "21:00",
+            "day": 3,
+            "network": "NBC"
+        },
+        {
+            "name": "Speechless",
+            "download": null,
+            "id": 11553,
+            "time": "20:30",
+            "day": 3,
+            "network": "ABC"
+        },
+        {
+            "name": "The Blacklist",
+            "download": null,
+            "id": 69,
+            "time": "22:00",
+            "day": 4,
+            "network": "NBC"
+        },
+        {
+            "name": "Elementary",
+            "download": null,
+            "id": 133,
+            "time": "20:00",
+            "day": 0,
+            "network": "CBS"
+        },
+        {
+            "name": "Scorpion",
+            "download": null,
+            "id": 44,
+            "time": "22:00",
+            "day": 1,
+            "network": "CBS"
+        },
+        {
+            "name": "Last Week Tonight with John Oliver",
+            "download": null,
+            "id": 263,
+            "time": "23:00",
+            "day": 0,
+            "network": "HBO"
+        },
+        {
+            "name": "Jane the Virgin",
+            "download": null,
+            "id": 128,
+            "time": "21:00",
+            "day": 1,
+            "network": "The CW"
+        },
+        {
+            "name": "Timeless",
+            "download": null,
+            "id": 8873,
+            "time": "22:00",
+            "day": 1,
+            "network": "NBC"
+        },
+        {
+            "name": "American Dad!",
+            "download": null,
+            "id": 215,
+            "time": "20:30",
+            "day": 1,
+            "network": "TBS"
+        },
+        {
+            "name": "Supergirl",
+            "download": null,
+            "id": 1850,
+            "time": "20:00",
+            "day": 1,
+            "network": "The CW"
+        }
+    ],
+    "networks": {
+        "FX": false,
+        "NBC": false,
+        "ABC": true,
+        "MTV": false,
+        "CBS": true,
+        "FOX": false,
+        "AMC": false,
+        "Neflix": true,
+        "SyFy": true
+    },
+    "show": [
+        {
+            "test": "shten"
+        }
+    ]
+}
